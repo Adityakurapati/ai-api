@@ -1,0 +1,12 @@
+[
+  { "start": 0.0, "end": 0.2, "viseme": "A", "weight": 0.8 },
+  { "start": 0.2, "end": 0.4, "viseme": "E", "weight": 0.9 },
+  { "start": 0.4, "end": 0.6, "viseme": "O", "weight": 0.7 },
+  { "start": 0.6, "end": 0.8, "viseme": "M", "weight": 0.8 },
+  { "start": 0.8, "end": 1.0, "viseme": "A", "weight": 0.6 },
+  { "start": 1.0, "end": 1.2, "viseme": "I", "weight": 0.7 },
+  { "start": 1.2, "end": 1.4, "viseme": "E", "weight": 0.8 },
+  { "start": 1.4, "end": 1.6, "viseme": "O", "weight": 0.9 },
+  { "start": 1.6, "end": 1.8, "viseme": "U", "weight": 0.7 },
+  { "start": 1.8, "end": 2.0, "viseme": "A", "weight": 0.8 }
+]
